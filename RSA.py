@@ -44,7 +44,7 @@ while math.gcd(e, phi_n) != 1:
 
 d = inv_modulo(e, phi_n)
 
-msg = "Hello Nigger"
+msg = "Hello Cyber"
 
 print(p)
 print(q)
